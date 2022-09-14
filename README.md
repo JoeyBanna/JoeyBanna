@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Goals are good for setting a direction, but systems are best for making progress
 
+  #### 𝗦𝘁𝗮𝘁𝘀
+
+![JoeyBanna's github stats](https://github-readme-stats.vercel.app/api?username=joeybanna_icons=true&theme=dracula) 
